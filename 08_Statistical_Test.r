@@ -3,7 +3,7 @@
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
 # Date: 4th of November, 2024
-# Title: Assignment 8 - Statistical Test
+# Title: Assignment 08 - Statistical Test
 # ##############################################################################
 
 
