@@ -2,7 +2,7 @@
 # Author: Edward E. Daisey
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
-# Date: 23rd of September, 2024
+# Date: 30th of September, 2024
 # Title: Assignment 05 - Example 3.10.6 Simulation
 # ##############################################################################
 
