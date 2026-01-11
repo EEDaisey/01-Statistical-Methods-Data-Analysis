@@ -1,4 +1,4 @@
-# Note: Not the author of this function. Leaving here for future reference.
+# Note: Not the author of this function. Leaving here for my reference.
 
 funct <- function(x) { dnorm(x,-2,1) * 1/3 + dnorm(x,2,1) * 2/3 }
 
